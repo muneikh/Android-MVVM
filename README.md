@@ -7,3 +7,5 @@ The app fetches the public repositories using the Github api and shows the follo
 - login of the owner
 
 The results from the api are paginated i.e. 10 results at a time and are stored in the persistent storage.
+
+The application also covers very basic Unit tests for the network requests.
